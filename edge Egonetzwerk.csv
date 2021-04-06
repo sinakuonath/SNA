@@ -1,0 +1,13 @@
+from,to,weight
+FG,AK,3
+FG,HK,3
+FG,AF,2
+AK,FG,3
+AK,HK,3
+AK,AF,2
+HK,FG,3
+HK,AK,3
+HK,AF,2
+AF,FG,2
+AF,AK,2
+AF,HK,2
